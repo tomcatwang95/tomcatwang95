@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tomcatwang95
 - 👀 I’m interested in Mechanical stuff and photography. Looking forward to meet new friends in Github!
 - 🌱 I’m currently learning C++, SQL and Python
-- 💞️ I’m looking to have a change to take part in a meaningful project to enhance my experience. 
+- 💞️ I’m looking to have a chance to take part in a meaningful project to enhance my experience. 
 - 📫 You can reach me by email: tomcat.wang95@gmail.com
 
 <!---
